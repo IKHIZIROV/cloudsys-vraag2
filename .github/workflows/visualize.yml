@@ -1,0 +1,6 @@
+name: repo visualizer
+
+on:
+  pull_request:
+    branches:
+    - main
